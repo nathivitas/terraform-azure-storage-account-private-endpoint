@@ -4,7 +4,7 @@
 company       = "kopicloud"
 app_name      = "iaas"
 environment   = "dev"
-location      = "northeurope"
+location      = "eastus"
 shortlocation = "ne"
 
 ##################
@@ -24,5 +24,5 @@ network-endpoint-subnet-cidr = "10.129.1.0/24"
 #########
 # Rules #
 #########
-//white_list_ip = ["110.110.110.110"]
+white_list_ip = ["148.255.75.31"]
 
