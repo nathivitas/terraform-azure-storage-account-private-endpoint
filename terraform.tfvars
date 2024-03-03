@@ -1,11 +1,11 @@
 ####################
 # Common Variables #
 ####################
-company       = "kopicloud"
+company       = "natycaraballo"
 app_name      = "iaas"
 environment   = "dev"
 location      = "eastus"
-shortlocation = "ne"
+shortlocation = "nc"
 
 ##################
 # Authentication #
